@@ -3,9 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" >
     <title>Document</title>
 </head>
 <body>
-    <script src="script.js"></script>
+    <header>
+  <h1>🍽 Flavor Palette</h1>
+  <div id="buttons-container">
+    <nav>
+      <button data-query="pizza">
+        <img src="images/pizza.jpg" alt="Pizza">
+      </button>
+      <button data-query="pasta">
+        <img src="images/pasta.jpg" alt="Pasta">
+      </button>
+      <button data-query="salad">
+        <img src="images/salad.jpg" alt="Salad">
+      </button>
+      <button data-query="beef">
+        <img src="images/beef.jpg" alt="Beef">
+      </button>
+    </nav>
+  </div>
+</header>
+
+  <main>
+  <div id="loader" class="loader hidden"></div>
+  <div id="recipes-container">
+  </div>
+</main>
+
+<div id="back-button-container" class="hidden">
+  <button id="back-button">← Back to Categories</button>
+</div>
+
+  <script src="script.js" type="module"></script>
 </body>
 </html>
