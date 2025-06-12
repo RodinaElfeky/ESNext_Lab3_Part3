@@ -1,11 +1,11 @@
-🍽️ **Flavor Palette – Discover Delicious Recipes Instantly
+🍽️ <bold>Flavor Palette – Discover Delicious Recipes Instantly</bold>
 
 Welcome to Flavor Palette, a visually rich, interactive recipe explorer powered by the Forkify API. Whether you're craving pizza, pasta, salad, or beef, this web app brings a curated set of delicious recipes to your fingertips—just click a dish and discover what you can cook!
 
-🌟 **Live Demo: Click Here to Try It Out
+🌟 <bold> Live Demo: </bold>Click Here to Try It Out
 (Replace with your actual deployed link)
 
-🔥 **Features
+🔥 <bold>Features</bold>
 
 ✅ One-click Recipe Discovery
 Select a food category like Pizza, Pasta, Salad, or Beef and instantly browse dozens of related recipes.
@@ -22,7 +22,7 @@ Quickly return to the category menu without refreshing the page.
 ✅ Modern, Clean UI
 Crafted with care using modern CSS for an elegant and user-friendly interface.
 
-💻 **Tech Stack
+💻 <bold>Tech Stack</bold>
 
  | Technology                                                                                                                      | Description                                                |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
