@@ -1,28 +1,27 @@
-🍽️ Flavor Palette – Discover Delicious Recipes Instantly
+<h1>🍽️ Flavor Palette – Discover Delicious Recipes Instantly</h1>
 
-Welcome to Flavor Palette, a visually rich, interactive recipe explorer powered by the Forkify API. Whether you're craving pizza, pasta, salad, or beef, this web app brings a curated set of delicious recipes to your fingertips—just click a dish and discover what you can cook!
+Welcome to Flavor Palette, a visually rich and interactive food menu explorer powered by the Forkify API. Browse curated menus for popular food categories like Pizza, Pasta, Salad, and Beef—and instantly view mouthwatering dish options with just a click!
 
-🌟 Live Demo: Click Here to Try It Out
-(Replace with your actual deployed link)
+<h1>🌟 Live Demo : </h1> https://rodinaelfeky.github.io/ESNext_Lab3_Part3/
 
-🔥 Features
+<h1>🔥 Features</h1>
 
-✅ One-click Recipe Discovery
+<h3>✅ One-click Recipe Discovery </h3>
 Select a food category like Pizza, Pasta, Salad, or Beef and instantly browse dozens of related recipes.
 
-✅ Seamless User Experience
+<h3>✅  Seamless User Experience </h3>
 Enjoy fast recipe loading with a stylish loader animation and smooth transitions between views.
 
-✅ Responsive Grid Layout
+<h3>✅ Responsive Grid Layout</h3>
 Mobile-first design with a responsive grid layout that looks great on all screen sizes.
 
-✅ Back to Menu Button
+<h3>✅ Back to Menu Button</h3>
 Quickly return to the category menu without refreshing the page.
 
-✅ Modern, Clean UI
+<h3>✅ Modern, Clean UI</h3>
 Crafted with care using modern CSS for an elegant and user-friendly interface.
 
-💻 Tech Stack
+ <h1>💻 Tech Stack</h1>
 
  | Technology                                                                                                                      | Description                                                |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
